@@ -1,6 +1,6 @@
 # Financial Modelling — Core Insights
-> **Source:** FinMod.xlsx — Sheet 9.1–9.7 | Firm & Project Valuation: Five Equivalent Methods
-> Distilled to the 20% that explains 80%
+> **Source:** FinMod.xlsx | Firm & Project Valuation: Five Equivalent Methods
+
 
 ---
 
