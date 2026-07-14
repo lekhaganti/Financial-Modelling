@@ -177,4 +177,4 @@ Modified Duration : Macaulay Duration / (1 + r/m)
 
 ---
 
-*Source: FMCF Presentation — Group 4, Project 02 | Maya's Quest: Financing Atherium Legends*
+*Source: FMCF Presentation | Maya's Quest: Financing Atherium Legends*
