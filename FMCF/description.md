@@ -1,6 +1,5 @@
 # FMCF — Core Mental Models & Principles
-> *Maya's Quest: Financing Atherium Legends — Group 4, Project 02*
-> Distilled to the 20% that explains 80%
+> *Maya's Quest: Financing Atherium Legends
 
 ---
 
