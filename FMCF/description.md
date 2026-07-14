@@ -1,5 +1,5 @@
 # FMCF — Core Mental Models & Principles
-> *Maya's Quest: Financing Atherium Legends
+> *Maya's Quest: Financing Atherium Legends*
 
 ---
 
